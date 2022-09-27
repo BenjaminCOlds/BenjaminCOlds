@@ -1,5 +1,5 @@
 - 👋 Welcome to my Github
-- 🤔 Learning: React Native
+- 🤔 Learning: React Native, Firebase
 - 🌱 Interested in Learning: Next.Js, Docker, NodeJS
 
 <!--
